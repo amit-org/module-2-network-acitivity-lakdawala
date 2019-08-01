@@ -6,3 +6,5 @@
 * Branches
 * Permissions
 * Managing student repositories
+
+* Student modified readme.md
